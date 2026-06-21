@@ -176,7 +176,7 @@ def opcionFinal(opBase):
     match opBase:
 
         case 1: 
-            opcionIngresada = input("\n\t\t\t¿Desea generar un nuevo ticket? (s/n): ")
+            opcionIngresada = input("\n\t\t\t¿Desea crear otro ticket? (s/n): ")
 
         case 2: 
             opcionIngresada = input("\n\t\t\t¿Desea consultar otro ticket? (s/n): ")
