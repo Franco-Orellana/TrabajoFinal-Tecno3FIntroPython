@@ -23,9 +23,9 @@ Permitir a los usuarios crear y consultar tickets de soporte mediante una interf
 Al iniciar la aplicación se mostrará el siguiente menú:
 
 ```text
-			=========================================
+		================================================================
 						SISTEMA DE TICKETS
-			=========================================
+		================================================================
 
 				Bienvenido/a, seleccione una opción:
 
@@ -66,9 +66,9 @@ Permite registrar un nuevo ticket solicitando la siguiente información:
 #### Ejemplo de ingreso de datos
 
 ```text
-		===================================================
+		================================================================
 							NUEVO TICKET
-		===================================================
+		================================================================
 
 				Ingrese los siguientes datos:
 
