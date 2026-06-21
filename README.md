@@ -24,7 +24,7 @@ Al iniciar la aplicación se mostrará el siguiente menú:
 
 ```text
 		================================================================
-						SISTEMA DE TICKETS
+						    SISTEMA DE TICKETS
 		================================================================
 
 				Bienvenido/a, seleccione una opción:
@@ -67,7 +67,7 @@ Permite registrar un nuevo ticket solicitando la siguiente información:
 
 ```text
 		================================================================
-							NUEVO TICKET
+							    NUEVO TICKET
 		================================================================
 
 				Ingrese los siguientes datos:
