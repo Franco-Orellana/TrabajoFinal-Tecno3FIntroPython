@@ -179,10 +179,10 @@ def opcionFinal(opBase):
             opcionIngresada = input("\n\t\t\t¿Desea generar un nuevo ticket? (s/n): ")
 
         case 2: 
-            opcionIngresada = input("\n\t\t\t¿Desea leer otro ticket? (s/n): ")
+            opcionIngresada = input("\n\t\t\t¿Desea consultar otro ticket? (s/n): ")
 
         case 3: 
-            opcionIngresada = input("\n\t\t\t¿Desea cerrar el programa? (s/n): ")
+            opcionIngresada = input("\n\t\t\t¿Está seguro que desea salir? (s/n): ")
 
     opcionIngresada = opcionIngresada.strip().lower()
 
